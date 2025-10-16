@@ -2,6 +2,7 @@
 int main ()
 {
     int n;
+    printf("hello world");
     while(scanf("%d",&n) != EOF)
     {
         if(n==1999)
